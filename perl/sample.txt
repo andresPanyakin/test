@@ -1,0 +1,5 @@
+This is a sample line.
+It has three lines.
+That's all.
+https://www.google.com
+http://www.orelly.com/catalog/regex3/
