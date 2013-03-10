@@ -1,0 +1,21 @@
+#include <pthread.h>
+#include <unistd.h>
+#include <iostream>
+
+class TestClass
+{
+	public:
+		int value;
+		TestClass(int param)
+		{
+			std::cout<<"Constructed " << param << "\n";
+			value = param;
+		}
+
+		~TestClass()
+		{
+			std::cout<<"destructed " << value << "\n";
+		}
+
+};
+

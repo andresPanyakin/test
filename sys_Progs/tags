@@ -1,0 +1,539 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+BASICOPTS	irtegov/Practice/PI/Makefile	/^BASICOPTS = -g$/;"	m
+BASICOPTS	irtegov/Practice/PI_interruptible/Makefile	/^BASICOPTS = -g$/;"	m
+BASICOPTS	irtegov/Practice/msgqueue/Makefile	/^BASICOPTS = -g$/;"	m
+BASICOPTS	irtegov/Practice/network_apps/Makefile	/^BASICOPTS = -g$/;"	m
+BASICOPTS	irtegov/Practice/network_apps/httpclients/Makefile	/^BASICOPTS = -g$/;"	m
+BASICOPTS	irtegov/Practice/ordered_list/Makefile	/^BASICOPTS = -g$/;"	m
+BASICOPTS	irtegov/Practice/philosophers/Makefile	/^BASICOPTS = -g$/;"	m
+BASICOPTS	irtegov/Practice/producer_consumer_print/Makefile	/^BASICOPTS = -g$/;"	m
+BASICOPTS	irtegov/Practice/pthread_cancel/Makefile	/^BASICOPTS = -g$/;"	m
+BASICOPTS	irtegov/Practice/pthread_cancel_handler/Makefile	/^BASICOPTS = -g$/;"	m
+BASICOPTS	irtegov/Practice/pthread_cp-R/Makefile	/^BASICOPTS = -g$/;"	m
+BASICOPTS	irtegov/Practice/pthread_cp-R_correct/Makefile	/^BASICOPTS = -g$/;"	m
+BASICOPTS	irtegov/Practice/pthread_create/Makefile	/^BASICOPTS = -g$/;"	m
+BASICOPTS	irtegov/Practice/pthread_create_join/Makefile	/^BASICOPTS = -g$/;"	m
+BASICOPTS	irtegov/Practice/pthread_create_param/Makefile	/^BASICOPTS = -g$/;"	m
+BASICOPTS	irtegov/Practice/semaphore_production/Makefile	/^BASICOPTS = -g -lrt$/;"	m
+BUFSIZE	irtegov/Practice/network_apps/forwarder.c	27;"	d	file:
+BUFSIZE	irtegov/Practice/ordered_list/local_mutex.c	8;"	d	file:
+BUFSIZE	irtegov/Practice/pthread_cp-R/pthread_cp_r.c	21;"	d	file:
+BUFSIZE	irtegov/Practice/pthread_cp-R_correct/pthread_cp_r.c	26;"	d	file:
+CC	irtegov/Practice/PI/Makefile	/^CC = cc$/;"	m
+CC	irtegov/Practice/PI_interruptible/Makefile	/^CC = cc$/;"	m
+CC	irtegov/Practice/msgqueue/Makefile	/^CC = cc$/;"	m
+CC	irtegov/Practice/network_apps/Makefile	/^CC = cc$/;"	m
+CC	irtegov/Practice/network_apps/httpclients/Makefile	/^CC = cc$/;"	m
+CC	irtegov/Practice/ordered_list/Makefile	/^CC = cc$/;"	m
+CC	irtegov/Practice/philosophers/Makefile	/^CC = cc$/;"	m
+CC	irtegov/Practice/producer_consumer_print/Makefile	/^CC = cc$/;"	m
+CC	irtegov/Practice/pthread_cancel/Makefile	/^CC = cc$/;"	m
+CC	irtegov/Practice/pthread_cancel_handler/Makefile	/^CC = cc$/;"	m
+CC	irtegov/Practice/pthread_cp-R/Makefile	/^CC = cc$/;"	m
+CC	irtegov/Practice/pthread_cp-R_correct/Makefile	/^CC = cc$/;"	m
+CC	irtegov/Practice/pthread_create/Makefile	/^CC = cc$/;"	m
+CC	irtegov/Practice/pthread_create_join/Makefile	/^CC = cc$/;"	m
+CC	irtegov/Practice/pthread_create_param/Makefile	/^CC = cc$/;"	m
+CC	irtegov/Practice/semaphore_production/Makefile	/^CC = cc$/;"	m
+CFLAGS	irtegov/Practice/PI/Makefile	/^CFLAGS = $(BASICOPTS) -xCC -mt$/;"	m
+CFLAGS	irtegov/Practice/PI_interruptible/Makefile	/^CFLAGS = $(BASICOPTS) -xCC -mt$/;"	m
+CFLAGS	irtegov/Practice/msgqueue/Makefile	/^CFLAGS = $(BASICOPTS) -xCC -mt$/;"	m
+CFLAGS	irtegov/Practice/network_apps/Makefile	/^CFLAGS = $(BASICOPTS) -xCC$/;"	m
+CFLAGS	irtegov/Practice/network_apps/httpclients/Makefile	/^CFLAGS = $(BASICOPTS) -xCC -mt$/;"	m
+CFLAGS	irtegov/Practice/ordered_list/Makefile	/^CFLAGS = $(BASICOPTS) -xCC -mt $/;"	m
+CFLAGS	irtegov/Practice/philosophers/Makefile	/^CFLAGS = $(BASICOPTS) -xCC -mt$/;"	m
+CFLAGS	irtegov/Practice/producer_consumer_print/Makefile	/^CFLAGS = $(BASICOPTS) -xCC -mt$/;"	m
+CFLAGS	irtegov/Practice/pthread_cancel/Makefile	/^CFLAGS = $(BASICOPTS) -xCC -mt$/;"	m
+CFLAGS	irtegov/Practice/pthread_cancel_handler/Makefile	/^CFLAGS = $(BASICOPTS) -xCC$/;"	m
+CFLAGS	irtegov/Practice/pthread_cp-R/Makefile	/^CFLAGS = $(BASICOPTS) -xc99=all$/;"	m
+CFLAGS	irtegov/Practice/pthread_cp-R_correct/Makefile	/^CFLAGS = $(BASICOPTS) -xc99=all -mt$/;"	m
+CFLAGS	irtegov/Practice/pthread_create/Makefile	/^CFLAGS = $(BASICOPTS) -xCC -mt$/;"	m
+CFLAGS	irtegov/Practice/pthread_create_join/Makefile	/^CFLAGS = $(BASICOPTS) -xCC -mt$/;"	m
+CFLAGS	irtegov/Practice/pthread_create_param/Makefile	/^CFLAGS = $(BASICOPTS) -xCC -mt$/;"	m
+CFLAGS	irtegov/Practice/semaphore_production/Makefile	/^CFLAGS = $(BASICOPTS) -xCC -mt$/;"	m
+DELAY	irtegov/Practice/philosophers/din_phil_ordered.c	15;"	d	file:
+DELAY	irtegov/Practice/philosophers/din_phil_ori.c	15;"	d	file:
+DELAY	irtegov/Practice/philosophers/din_phil_transaction.c	15;"	d	file:
+DEPLIBS_din_phil_ordered	irtegov/Practice/philosophers/Makefile	/^DEPLIBS_din_phil_ordered =  $/;"	m
+DEPLIBS_din_phil_ori	irtegov/Practice/philosophers/Makefile	/^DEPLIBS_din_phil_ori =  $/;"	m
+DEPLIBS_din_phil_transaction	irtegov/Practice/philosophers/Makefile	/^DEPLIBS_din_phil_transaction =  $/;"	m
+DEPLIBS_forwarder	irtegov/Practice/network_apps/Makefile	/^DEPLIBS_forwarder =  $/;"	m
+DEPLIBS_global_mutex	irtegov/Practice/ordered_list/Makefile	/^DEPLIBS_global_mutex =  $/;"	m
+DEPLIBS_global_rwlock	irtegov/Practice/ordered_list/Makefile	/^DEPLIBS_global_rwlock =  $/;"	m
+DEPLIBS_httpclient_aio	irtegov/Practice/network_apps/httpclients/Makefile	/^DEPLIBS_httpclient_aio =  $/;"	m
+DEPLIBS_httpclient_pthread	irtegov/Practice/network_apps/httpclients/Makefile	/^DEPLIBS_httpclient_pthread =  $/;"	m
+DEPLIBS_httpclient_select	irtegov/Practice/network_apps/httpclients/Makefile	/^DEPLIBS_httpclient_select =  $/;"	m
+DEPLIBS_local_mutex	irtegov/Practice/ordered_list/Makefile	/^DEPLIBS_local_mutex =  $/;"	m
+DEPLIBS_local_rwlock	irtegov/Practice/ordered_list/Makefile	/^DEPLIBS_local_rwlock =  $/;"	m
+DEPLIBS_msgqueue_cond	irtegov/Practice/msgqueue/Makefile	/^DEPLIBS_msgqueue_cond =  $/;"	m
+DEPLIBS_msgqueue_sem	irtegov/Practice/msgqueue/Makefile	/^DEPLIBS_msgqueue_sem =  $/;"	m
+DEPLIBS_pi_parallel	irtegov/Practice/PI/Makefile	/^DEPLIBS_pi_parallel =  $/;"	m
+DEPLIBS_pi_parallel_barrier	irtegov/Practice/PI_interruptible/Makefile	/^DEPLIBS_pi_parallel_barrier =  $/;"	m
+DEPLIBS_pi_serial	irtegov/Practice/PI/Makefile	/^DEPLIBS_pi_serial =  $/;"	m
+DEPLIBS_pi_serial	irtegov/Practice/PI_interruptible/Makefile	/^DEPLIBS_pi_serial =  $/;"	m
+DEPLIBS_production_line	irtegov/Practice/semaphore_production/Makefile	/^DEPLIBS_production_line =  $/;"	m
+FOOD	irtegov/Practice/philosophers/din_phil_ordered.c	16;"	d	file:
+FOOD	irtegov/Practice/philosophers/din_phil_ori.c	16;"	d	file:
+FOOD	irtegov/Practice/philosophers/din_phil_transaction.c	16;"	d	file:
+ITERATIONS	irtegov/Practice/producer_consumer_print/p_c_funny.c	21;"	d	file:
+LDLIBS_din_phil_ordered	irtegov/Practice/philosophers/Makefile	/^LDLIBS_din_phil_ordered = $(USERLIBS_din_phil_ordered)$/;"	m
+LDLIBS_din_phil_ori	irtegov/Practice/philosophers/Makefile	/^LDLIBS_din_phil_ori = $(USERLIBS_din_phil_ori)$/;"	m
+LDLIBS_din_phil_transaction	irtegov/Practice/philosophers/Makefile	/^LDLIBS_din_phil_transaction = $(USERLIBS_din_phil_transaction)$/;"	m
+LDLIBS_forwarder	irtegov/Practice/network_apps/Makefile	/^LDLIBS_forwarder = $(USERLIBS_forwarder)$/;"	m
+LDLIBS_global_mutex	irtegov/Practice/ordered_list/Makefile	/^LDLIBS_global_mutex = $(USERLIBS_global_mutex)$/;"	m
+LDLIBS_global_rwlock	irtegov/Practice/ordered_list/Makefile	/^LDLIBS_global_rwlock = $(USERLIBS_global_rwlock)$/;"	m
+LDLIBS_httpclient_aio	irtegov/Practice/network_apps/httpclients/Makefile	/^LDLIBS_httpclient_aio = $(USERLIBS_httpclient_aio)$/;"	m
+LDLIBS_httpclient_pthread	irtegov/Practice/network_apps/httpclients/Makefile	/^LDLIBS_httpclient_pthread = $(USERLIBS_httpclient_pthread)$/;"	m
+LDLIBS_httpclient_select	irtegov/Practice/network_apps/httpclients/Makefile	/^LDLIBS_httpclient_select = $(USERLIBS_httpclient_select)$/;"	m
+LDLIBS_local_mutex	irtegov/Practice/ordered_list/Makefile	/^LDLIBS_local_mutex = $(USERLIBS_local_mutex)$/;"	m
+LDLIBS_local_rwlock	irtegov/Practice/ordered_list/Makefile	/^LDLIBS_local_rwlock = $(USERLIBS_local_rwlock)$/;"	m
+LDLIBS_msgqueue_cond	irtegov/Practice/msgqueue/Makefile	/^LDLIBS_msgqueue_cond = $(USERLIBS_msgqueue_cond)$/;"	m
+LDLIBS_msgqueue_sem	irtegov/Practice/msgqueue/Makefile	/^LDLIBS_msgqueue_sem = $(USERLIBS_msgqueue_sem)$/;"	m
+LDLIBS_pi_parallel	irtegov/Practice/PI/Makefile	/^LDLIBS_pi_parallel = $(USERLIBS_pi_parallel)$/;"	m
+LDLIBS_pi_parallel_barrier	irtegov/Practice/PI_interruptible/Makefile	/^LDLIBS_pi_parallel_barrier = $(USERLIBS_pi_parallel_barrier)$/;"	m
+LDLIBS_pi_serial	irtegov/Practice/PI/Makefile	/^LDLIBS_pi_serial = $(USERLIBS_pi_serial)$/;"	m
+LDLIBS_pi_serial	irtegov/Practice/PI_interruptible/Makefile	/^LDLIBS_pi_serial = $(USERLIBS_pi_serial)$/;"	m
+LDLIBS_producer_consumer	irtegov/Practice/producer_consumer_print/Makefile	/^LDLIBS_producer_consumer=-lrt$/;"	m
+LDLIBS_production_line	irtegov/Practice/semaphore_production/Makefile	/^LDLIBS_production_line = $(USERLIBS_production_line)$/;"	m
+MAXLEN	irtegov/Practice/ordered_list/local_mutex.c	6;"	d	file:
+MAX_LEN	irtegov/Practice/ordered_list/global_mutex.c	8;"	d	file:
+MAX_LEN	irtegov/Practice/ordered_list/global_rwlock.c	8;"	d	file:
+MAX_LEN	irtegov/Practice/ordered_list/local_rwlock.c	8;"	d	file:
+OBJS_din_phil_ordered	irtegov/Practice/philosophers/Makefile	/^OBJS_din_phil_ordered =  \\$/;"	m
+OBJS_din_phil_ori	irtegov/Practice/philosophers/Makefile	/^OBJS_din_phil_ori =  \\$/;"	m
+OBJS_din_phil_transaction	irtegov/Practice/philosophers/Makefile	/^OBJS_din_phil_transaction =  \\$/;"	m
+OBJS_forwarder	irtegov/Practice/network_apps/Makefile	/^OBJS_forwarder =  \\$/;"	m
+OBJS_global_mutex	irtegov/Practice/ordered_list/Makefile	/^OBJS_global_mutex =  \\$/;"	m
+OBJS_global_rwlock	irtegov/Practice/ordered_list/Makefile	/^OBJS_global_rwlock =  \\$/;"	m
+OBJS_httpclient_aio	irtegov/Practice/network_apps/httpclients/Makefile	/^OBJS_httpclient_aio =  \\$/;"	m
+OBJS_httpclient_pthread	irtegov/Practice/network_apps/httpclients/Makefile	/^OBJS_httpclient_pthread =  \\$/;"	m
+OBJS_httpclient_select	irtegov/Practice/network_apps/httpclients/Makefile	/^OBJS_httpclient_select =  \\$/;"	m
+OBJS_local_mutex	irtegov/Practice/ordered_list/Makefile	/^OBJS_local_mutex =  \\$/;"	m
+OBJS_local_rwlock	irtegov/Practice/ordered_list/Makefile	/^OBJS_local_rwlock =  \\$/;"	m
+OBJS_msgqueue_cond	irtegov/Practice/msgqueue/Makefile	/^OBJS_msgqueue_cond =  \\$/;"	m
+OBJS_msgqueue_sem	irtegov/Practice/msgqueue/Makefile	/^OBJS_msgqueue_sem =  \\$/;"	m
+OBJS_p_c_condvar	irtegov/Practice/producer_consumer_print/Makefile	/^OBJS_p_c_condvar =  \\$/;"	m
+OBJS_p_c_funny	irtegov/Practice/producer_consumer_print/Makefile	/^OBJS_p_c_funny =  \\$/;"	m
+OBJS_p_c_sem	irtegov/Practice/producer_consumer_print/Makefile	/^OBJS_p_c_sem =  \\$/;"	m
+OBJS_pi_parallel	irtegov/Practice/PI/Makefile	/^OBJS_pi_parallel =  \\$/;"	m
+OBJS_pi_parallel_barrier	irtegov/Practice/PI_interruptible/Makefile	/^OBJS_pi_parallel_barrier =  \\$/;"	m
+OBJS_pi_serial	irtegov/Practice/PI/Makefile	/^OBJS_pi_serial =  \\$/;"	m
+OBJS_pi_serial	irtegov/Practice/PI_interruptible/Makefile	/^OBJS_pi_serial =  \\$/;"	m
+OBJS_production_line	irtegov/Practice/semaphore_production/Makefile	/^OBJS_production_line =  \\$/;"	m
+OBJS_pthread_cancel	irtegov/Practice/pthread_cancel/Makefile	/^OBJS_pthread_cancel =  \\$/;"	m
+OBJS_pthread_cancel_handler	irtegov/Practice/pthread_cancel_handler/Makefile	/^OBJS_pthread_cancel_handler =  \\$/;"	m
+OBJS_pthread_cp_r	irtegov/Practice/pthread_cp-R/Makefile	/^OBJS_pthread_cp_r =  \\$/;"	m
+OBJS_pthread_cp_r	irtegov/Practice/pthread_cp-R_correct/Makefile	/^OBJS_pthread_cp_r =  \\$/;"	m
+OBJS_pthread_create	irtegov/Practice/pthread_create/Makefile	/^OBJS_pthread_create =  \\$/;"	m
+OBJS_pthread_create_join	irtegov/Practice/pthread_create_join/Makefile	/^OBJS_pthread_create_join =  \\$/;"	m
+OBJS_pthread_create_param	irtegov/Practice/pthread_create_param/Makefile	/^OBJS_pthread_create_param =  \\$/;"	m
+PHILO	irtegov/Practice/philosophers/din_phil_ordered.c	14;"	d	file:
+PHILO	irtegov/Practice/philosophers/din_phil_ori.c	14;"	d	file:
+PHILO	irtegov/Practice/philosophers/din_phil_transaction.c	14;"	d	file:
+POSIX_C_SOURCE	irtegov/Practice/pthread_cp-R_correct/pthread_cp_r.c	10;"	d	file:
+SLEEP_TIME	irtegov/Practice/ordered_list/local_rwlock.c	/^const int SLEEP_TIME = 5;$/;"	v
+SYSLIBS_forwarder	irtegov/Practice/network_apps/Makefile	/^SYSLIBS_forwarder = -lsocket -lnsl $/;"	m
+SYSLIBS_httpclient_aio	irtegov/Practice/network_apps/httpclients/Makefile	/^SYSLIBS_httpclient_aio = -lsocket -lnsl -lrt$/;"	m
+SYSLIBS_httpclient_pthread	irtegov/Practice/network_apps/httpclients/Makefile	/^SYSLIBS_httpclient_pthread = -lsocket -lnsl$/;"	m
+SYSLIBS_httpclient_select	irtegov/Practice/network_apps/httpclients/Makefile	/^SYSLIBS_httpclient_select = -lsocket -lnsl $/;"	m
+TARGETDIR_din_phil_ordered	irtegov/Practice/philosophers/Makefile	/^TARGETDIR_din_phil_ordered=Sun-x86-Solaris$/;"	m
+TARGETDIR_din_phil_ori	irtegov/Practice/philosophers/Makefile	/^TARGETDIR_din_phil_ori=Sun-x86-Solaris$/;"	m
+TARGETDIR_din_phil_transaction	irtegov/Practice/philosophers/Makefile	/^TARGETDIR_din_phil_transaction=Sun-x86-Solaris$/;"	m
+TARGETDIR_forwarder	irtegov/Practice/network_apps/Makefile	/^TARGETDIR_forwarder=Sun-x86-Solaris$/;"	m
+TARGETDIR_global_mutex	irtegov/Practice/ordered_list/Makefile	/^TARGETDIR_global_mutex=Sun-x86-Solaris$/;"	m
+TARGETDIR_global_rwlock	irtegov/Practice/ordered_list/Makefile	/^TARGETDIR_global_rwlock=Sun-x86-Solaris$/;"	m
+TARGETDIR_httpclient_aio	irtegov/Practice/network_apps/httpclients/Makefile	/^TARGETDIR_httpclient_aio=Sun-x86-Solaris$/;"	m
+TARGETDIR_httpclient_pthread	irtegov/Practice/network_apps/httpclients/Makefile	/^TARGETDIR_httpclient_pthread=Sun-x86-Solaris$/;"	m
+TARGETDIR_httpclient_select	irtegov/Practice/network_apps/httpclients/Makefile	/^TARGETDIR_httpclient_select=Sun-x86-Solaris$/;"	m
+TARGETDIR_local_mutex	irtegov/Practice/ordered_list/Makefile	/^TARGETDIR_local_mutex=Sun-x86-Solaris$/;"	m
+TARGETDIR_local_rwlock	irtegov/Practice/ordered_list/Makefile	/^TARGETDIR_local_rwlock=Sun-x86-Solaris$/;"	m
+TARGETDIR_msgqueue_cond	irtegov/Practice/msgqueue/Makefile	/^TARGETDIR_msgqueue_cond=Sun-x86-Solaris$/;"	m
+TARGETDIR_msgqueue_sem	irtegov/Practice/msgqueue/Makefile	/^TARGETDIR_msgqueue_sem=Sun-x86-Solaris$/;"	m
+TARGETDIR_pi_parallel	irtegov/Practice/PI/Makefile	/^TARGETDIR_pi_parallel=Sun-x86-Solaris$/;"	m
+TARGETDIR_pi_parallel_barrier	irtegov/Practice/PI_interruptible/Makefile	/^TARGETDIR_pi_parallel_barrier=Sun-x86-Solaris$/;"	m
+TARGETDIR_pi_serial	irtegov/Practice/PI/Makefile	/^TARGETDIR_pi_serial=Sun-x86-Solaris$/;"	m
+TARGETDIR_pi_serial	irtegov/Practice/PI_interruptible/Makefile	/^TARGETDIR_pi_serial=Sun-x86-Solaris$/;"	m
+TARGETDIR_producer_consumer	irtegov/Practice/producer_consumer_print/Makefile	/^TARGETDIR_producer_consumer=Sun-x86-Solaris$/;"	m
+TARGETDIR_production_line	irtegov/Practice/semaphore_production/Makefile	/^TARGETDIR_production_line=Sun-x86-Solaris$/;"	m
+TARGETDIR_pthread_cancel	irtegov/Practice/pthread_cancel/Makefile	/^TARGETDIR_pthread_cancel=Sun-x86-Solaris$/;"	m
+TARGETDIR_pthread_cancel_handler	irtegov/Practice/pthread_cancel_handler/Makefile	/^TARGETDIR_pthread_cancel_handler=Sun-x86-Solaris$/;"	m
+TARGETDIR_pthread_cp_r	irtegov/Practice/pthread_cp-R/Makefile	/^TARGETDIR_pthread_cp_r=Sun-x86-Solaris$/;"	m
+TARGETDIR_pthread_cp_r	irtegov/Practice/pthread_cp-R_correct/Makefile	/^TARGETDIR_pthread_cp_r=Sun-x86-Solaris$/;"	m
+TARGETDIR_pthread_create	irtegov/Practice/pthread_create/Makefile	/^TARGETDIR_pthread_create=Sun-x86-Solaris$/;"	m
+TARGETDIR_pthread_create_join	irtegov/Practice/pthread_create_join/Makefile	/^TARGETDIR_pthread_create_join=Sun-x86-Solaris$/;"	m
+TARGETDIR_pthread_create_param	irtegov/Practice/pthread_create_param/Makefile	/^TARGETDIR_pthread_create_param=Sun-x86-Solaris$/;"	m
+TIMEOUT	irtegov/Practice/ordered_list/local_mutex.c	7;"	d	file:
+TestClass	irtegov/Practice/tests/test_destructor.cpp	/^	TestClass(int parameter) {$/;"	f	class:TestClass
+TestClass	irtegov/Practice/tests/test_destructor.cpp	/^class TestClass {$/;"	c	file:
+TestClass	irtegov/Practice/tests/test_destructor_exit.cpp	/^	TestClass(int parameter) {$/;"	f	class:TestClass
+TestClass	irtegov/Practice/tests/test_destructor_exit.cpp	/^class TestClass {$/;"	c	file:
+TestClass	irtegov/Practice/tests/test_exit.cpp	/^	TestClass(int parameter) {$/;"	f	class:TestClass
+TestClass	irtegov/Practice/tests/test_exit.cpp	/^class TestClass {$/;"	c	file:
+TestClass	irtegov/p3-2.cpp	/^	TestClass(int param)$/;"	f	class:TestClass
+TestClass	irtegov/p3-2.cpp	/^class TestClass$/;"	c	file:
+USERLIBS_din_phil_ordered	irtegov/Practice/philosophers/Makefile	/^USERLIBS_din_phil_ordered = $(SYSLIBS_din_phil_ordered) $/;"	m
+USERLIBS_din_phil_ori	irtegov/Practice/philosophers/Makefile	/^USERLIBS_din_phil_ori = $(SYSLIBS_din_phil_ori) $/;"	m
+USERLIBS_din_phil_transaction	irtegov/Practice/philosophers/Makefile	/^USERLIBS_din_phil_transaction = $(SYSLIBS_din_phil_transaction) $/;"	m
+USERLIBS_forwarder	irtegov/Practice/network_apps/Makefile	/^USERLIBS_forwarder = $(SYSLIBS_forwarder) $/;"	m
+USERLIBS_global_mutex	irtegov/Practice/ordered_list/Makefile	/^USERLIBS_global_mutex = $(SYSLIBS_global_mutex) $/;"	m
+USERLIBS_global_rwlock	irtegov/Practice/ordered_list/Makefile	/^USERLIBS_global_rwlock = $(SYSLIBS_global_rwlock) $/;"	m
+USERLIBS_httpclient_aio	irtegov/Practice/network_apps/httpclients/Makefile	/^USERLIBS_httpclient_aio = $(SYSLIBS_httpclient_aio) $/;"	m
+USERLIBS_httpclient_pthread	irtegov/Practice/network_apps/httpclients/Makefile	/^USERLIBS_httpclient_pthread = $(SYSLIBS_httpclient_pthread) $/;"	m
+USERLIBS_httpclient_select	irtegov/Practice/network_apps/httpclients/Makefile	/^USERLIBS_httpclient_select = $(SYSLIBS_httpclient_select) $/;"	m
+USERLIBS_local_mutex	irtegov/Practice/ordered_list/Makefile	/^USERLIBS_local_mutex = $(SYSLIBS_local_mutex) $/;"	m
+USERLIBS_local_rwlock	irtegov/Practice/ordered_list/Makefile	/^USERLIBS_local_rwlock = $(SYSLIBS_local_rwlock) $/;"	m
+USERLIBS_msgqueue_cond	irtegov/Practice/msgqueue/Makefile	/^USERLIBS_msgqueue_cond = $(SYSLIBS_msgqueue_cond) $/;"	m
+USERLIBS_msgqueue_sem	irtegov/Practice/msgqueue/Makefile	/^USERLIBS_msgqueue_sem = $(SYSLIBS_msgqueue_sem) -lrt$/;"	m
+USERLIBS_pi_parallel	irtegov/Practice/PI/Makefile	/^USERLIBS_pi_parallel = $(SYSLIBS_pi_parallel) $/;"	m
+USERLIBS_pi_parallel_barrier	irtegov/Practice/PI_interruptible/Makefile	/^USERLIBS_pi_parallel_barrier = $(SYSLIBS_pi_parallel_barrier) $/;"	m
+USERLIBS_pi_serial	irtegov/Practice/PI/Makefile	/^USERLIBS_pi_serial = $(SYSLIBS_pi_serial) $/;"	m
+USERLIBS_pi_serial	irtegov/Practice/PI_interruptible/Makefile	/^USERLIBS_pi_serial = $(SYSLIBS_pi_serial) $/;"	m
+USERLIBS_production_line	irtegov/Practice/semaphore_production/Makefile	/^USERLIBS_production_line = $(SYSLIBS_production_line) $/;"	m
+_GNU_SOURCE	love/p215.c	4;"	d	file:
+_POSIX_PTHREAD_SEMANTICS	irtegov/Practice/PI_interruptible/pi_parallel_barrier.c	7;"	d	file:
+_msgqueue_cond_H	irtegov/Practice/msgqueue/msgqueue_cond.h	9;"	d
+_msgqueue_sem_H	irtegov/Practice/msgqueue/msgqueue_sem.h	7;"	d
+add_connection	irtegov/Practice/network_apps/forwarder.c	/^struct connection_descriptor *add_connection(int client_socket, struct sockaddr_in *servaddr) {$/;"	f
+atexit_print	irtegov/Practice/pthread_cp-R/pthread_cp_r.c	/^void atexit_print(void) {$/;"	f
+atexit_print	irtegov/Practice/pthread_cp-R_correct/pthread_cp_r.c	/^void atexit_print(void) {$/;"	f
+barrier	irtegov/Practice/PI_interruptible/pi_parallel_barrier.c	/^pthread_barrier_t barrier;$/;"	v
+beingdestroyed	irtegov/Practice/msgqueue/msgqueue_cond.h	/^  int beingdestroyed;$/;"	m	struct:myqueue
+beingdestroyed	irtegov/Practice/msgqueue/msgqueue_sem.h	/^  int beingdestroyed;$/;"	m	struct:myqueue
+body_forexit	irtegov/Practice/tests/test_destructor.cpp	/^void *body_forexit(void * param) {$/;"	f
+body_forexit	irtegov/Practice/tests/test_destructor_exit.cpp	/^void *body_forexit(void * param) {$/;"	f
+body_forexit	irtegov/p3-2.cpp	/^	void* body_forexit(void* param)$/;"	f
+body_forreturn	irtegov/Practice/tests/test_destructor.cpp	/^void *body_forreturn(void * param) {$/;"	f
+body_forreturn	irtegov/Practice/tests/test_destructor_exit.cpp	/^void *body_forreturn(void * param) {$/;"	f
+body_forreturn	irtegov/p3-2.cpp	/^	void* body_forreturn(void* param)$/;"	f
+buf	irtegov/Practice/msgqueue/msgqueue_cond.h	/^  char buf[81];$/;"	m	struct:queue_record
+buf	irtegov/Practice/msgqueue/msgqueue_sem.h	/^  char buf[81];$/;"	m	struct:queue_record
+buf	irtegov/Practice/network_apps/httpclients/body_pthread.c	/^char buf[4096];$/;"	v
+buf_c_f	irtegov/Practice/network_apps/forwarder.c	/^    char buf_c_f[BUFSIZE]; \/* data from client to forward *\/$/;"	m	struct:connection_descriptor	file:
+buf_f_c	irtegov/Practice/network_apps/forwarder.c	/^    char buf_f_c[BUFSIZE]; \/* data from forward to client *\/$/;"	m	struct:connection_descriptor	file:
+bufcond	irtegov/Practice/network_apps/httpclients/body_pthread.c	/^pthread_cond_t bufcond=PTHREAD_COND_INITIALIZER;$/;"	v
+bufmx	irtegov/Practice/network_apps/httpclients/body_pthread.c	/^pthread_mutex_t bufmx=PTHREAD_MUTEX_INITIALIZER;$/;"	v
+calculate	irtegov/Practice/PI/pi_parallel.c	/^void * calculate(void *param) {$/;"	f
+calculate	irtegov/Practice/PI_interruptible/pi_parallel_barrier.c	/^void * calculate(void *param) {$/;"	f
+calculate	irtegov/Practice/PI_interruptible/pi_parallel_mutex.c	/^void * calculate(void *param) {$/;"	f
+cancel_handler	irtegov/Practice/pthread_cancel_handler/pthread_cancel_handler.c	/^void cancel_handler(void * arg) {$/;"	f
+check_socket_against_nfds	irtegov/Practice/network_apps/forwarder.c	/^void check_socket_against_nfds(int s) {$/;"	f
+child	irtegov/Practice/semtest-1.c	/^pid_t child;$/;"	v
+child	irtegov/Practice/semtest.c	/^pid_t child;$/;"	v
+cleanup	irtegov/Practice/semtest.c	/^void cleanup(void) {$/;"	f
+client_body	irtegov/Practice/network_apps/httpclients/body_aio.c	/^int client_body(char *hostname, int port, char *url) {$/;"	f
+client_body	irtegov/Practice/network_apps/httpclients/body_pthread.c	/^int client_body(char *hostname, int port, char *url) {$/;"	f
+client_body	irtegov/Practice/network_apps/httpclients/body_select.c	/^int client_body(char *hostname, int port, char *url) {$/;"	f
+client_socket	irtegov/Practice/network_apps/forwarder.c	/^    int client_socket, forwarding_socket;$/;"	m	struct:connection_descriptor	file:
+close_with_wakeup	irtegov/pchecker2.c	/^int close_with_wakeup(int handle) { $/;"	f
+cond	irtegov/Practice/producer_consumer_print/p_c_condvar.c	/^pthread_cond_t  cond=PTHREAD_COND_INITIALIZER;$/;"	v
+connection_descriptor	irtegov/Practice/network_apps/forwarder.c	/^struct connection_descriptor {$/;"	s	file:
+consumer	irtegov/Practice/msgqueue/test.c	/^void *consumer(void *pq) {$/;"	f
+cont_add_first	irtegov/Practice/ordered_list/global_mutex.c	/^void cont_add_first ( head_list_elem* root, char* str ){$/;"	f
+cont_add_first	irtegov/Practice/ordered_list/global_rwlock.c	/^void cont_add_first ( head_list_elem* root, char* str ){$/;"	f
+cont_allocate	irtegov/Practice/ordered_list/global_mutex.c	/^head_list_elem* cont_allocate(){$/;"	f
+cont_allocate	irtegov/Practice/ordered_list/global_rwlock.c	/^head_list_elem* cont_allocate(){$/;"	f
+cont_free	irtegov/Practice/ordered_list/global_mutex.c	/^void cont_free ( head_list_elem* root ){$/;"	f
+cont_free	irtegov/Practice/ordered_list/global_rwlock.c	/^void cont_free ( head_list_elem* root ){$/;"	f
+cont_print	irtegov/Practice/ordered_list/global_mutex.c	/^void cont_print ( head_list_elem* root ){$/;"	f
+cont_print	irtegov/Practice/ordered_list/global_rwlock.c	/^void cont_print ( head_list_elem* root ){$/;"	f
+cont_sort	irtegov/Practice/ordered_list/global_mutex.c	/^void* cont_sort(void* root) {$/;"	f
+cont_sort	irtegov/Practice/ordered_list/global_rwlock.c	/^void* cont_sort(void* root) {$/;"	f
+copy_bras	irtegov/Practice/network_apps/httpclients/httpclient_main.c	/^char * copy_bras(const char *string, regmatch_t match[], int brasno) {$/;"	f
+copy_directory	irtegov/Practice/pthread_cp-R/pthread_cp_r.c	/^void * copy_directory(void * param) {$/;"	f
+copy_directory	irtegov/Practice/pthread_cp-R_correct/pthread_cp_r.c	/^void * copy_directory(void * param) {$/;"	f
+copy_file	irtegov/Practice/pthread_cp-R/pthread_cp_r.c	/^void *copy_file(void * param) {$/;"	f
+copy_file	irtegov/Practice/pthread_cp-R_correct/pthread_cp_r.c	/^void *copy_file(void * param) {$/;"	f
+count	irtegov/Practice/msgqueue/msgqueue_cond.h	/^  int count;$/;"	m	struct:myqueue
+createA	irtegov/Practice/semaphore_production/production_line.c	/^void* createA (void* arg){$/;"	f
+createAB	irtegov/Practice/semaphore_production/production_line.c	/^void* createAB (void* arg){$/;"	f
+createB	irtegov/Practice/semaphore_production/production_line.c	/^void* createB (void* arg){$/;"	f
+createC	irtegov/Practice/semaphore_production/production_line.c	/^void* createC (void* arg){$/;"	f
+createWidget	irtegov/Practice/semaphore_production/production_line.c	/^void* createWidget (){$/;"	f
+create_thread_with_retry	irtegov/Practice/pthread_cp-R/pthread_cp_r.c	/^int create_thread_with_retry(pthread_t *threadp, pthread_attr_t *attrp,$/;"	f
+create_thread_with_retry	irtegov/Practice/pthread_cp-R_correct/pthread_cp_r.c	/^int create_thread_with_retry(pthread_t *threadp, pthread_attr_t *attrp,$/;"	f
+data	irtegov/Practice/ordered_list/global_mutex.c	/^  char*      data;$/;"	m	struct:list_elem	file:
+data	irtegov/Practice/ordered_list/global_rwlock.c	/^  char*      data;$/;"	m	struct:list_elem	file:
+data	irtegov/Practice/ordered_list/local_mutex.c	/^  char data[MAXLEN];$/;"	m	struct:node_t	file:
+data	irtegov/Practice/ordered_list/local_rwlock.c	/^  char* data;$/;"	m	struct:tag_list_t	file:
+data_c_f	irtegov/Practice/network_apps/forwarder.c	/^    ssize_t data_c_f, data_f_c; \/* data counters.  -1 designates closed target connection *\/$/;"	m	struct:connection_descriptor	file:
+data_f_c	irtegov/Practice/network_apps/forwarder.c	/^    ssize_t data_c_f, data_f_c; \/* data counters.  -1 designates closed target connection *\/$/;"	m	struct:connection_descriptor	file:
+down_forks	irtegov/Practice/philosophers/din_phil_ordered.c	/^down_forks (int f1,$/;"	f
+down_forks	irtegov/Practice/philosophers/din_phil_ori.c	/^down_forks (int f1,$/;"	f
+down_forks	irtegov/Practice/philosophers/din_phil_transaction.c	/^down_forks (int f1,$/;"	f
+drop_connection	irtegov/Practice/network_apps/forwarder.c	/^void drop_connection(struct connection_descriptor *t) {$/;"	f
+dstdir	irtegov/Practice/pthread_cp-R/pthread_cp_r.c	/^char *srcdir, *dstdir; \/* source and destination dirs *\/$/;"	v
+dstdir	irtegov/Practice/pthread_cp-R_correct/pthread_cp_r.c	/^char *srcdir, *dstdir; \/* source and destination dirs *\/$/;"	v
+empty	irtegov/Practice/network_apps/httpclients/body_pthread.c	/^int empty=1, full=0, eof=0;$/;"	v
+eof	irtegov/Practice/network_apps/httpclients/body_pthread.c	/^int empty=1, full=0, eof=0;$/;"	v
+fd	SRT/sample.c	/^int fd; \/\/дескриптор файла, имя задается из коммандной строки$/;"	v
+fileopen_cond	irtegov/Practice/pthread_cp-R_correct/pthread_cp_r.c	/^pthread_cond_t fileopen_cond=PTHREAD_COND_INITIALIZER;$/;"	v
+fileopen_cond	irtegov/pchecker2.c	/^pthread_cond_t fileopen_cond=PTHREAD_COND_INITIALIZER; $/;"	v
+fileopen_mutex	irtegov/Practice/pthread_cp-R_correct/pthread_cp_r.c	/^pthread_mutex_t fileopen_mutex=PTHREAD_MUTEX_INITIALIZER;$/;"	v
+fileopen_mutex	irtegov/pchecker2.c	/^pthread_mutex_t fileopen_mutex=PTHREAD_MUTEX_INITIALIZER; $/;"	v
+first	irtegov/Practice/ordered_list/global_mutex.c	/^  struct list_elem* first;$/;"	m	struct:head_list_elem	typeref:struct:head_list_elem::list_elem	file:
+first	irtegov/Practice/ordered_list/global_rwlock.c	/^  struct list_elem* first;$/;"	m	struct:head_list_elem	typeref:struct:head_list_elem::list_elem	file:
+flonum	irtegov/Practice/PI/pi_parallel.c	/^		double flonum;$/;"	m	union:mynum	file:
+flonum	irtegov/Practice/PI_interruptible/pi_parallel_barrier.c	/^    double flonum;$/;"	m	union:mynum	file:
+flonum	irtegov/Practice/PI_interruptible/pi_parallel_mutex.c	/^    double flonum;$/;"	m	union:mynum	file:
+food_on_table	irtegov/Practice/philosophers/din_phil_ordered.c	/^food_on_table ()$/;"	f
+food_on_table	irtegov/Practice/philosophers/din_phil_ori.c	/^food_on_table ()$/;"	f
+food_on_table	irtegov/Practice/philosophers/din_phil_transaction.c	/^food_on_table ()$/;"	f
+foodlock	irtegov/Practice/philosophers/din_phil_ordered.c	/^pthread_mutex_t foodlock;$/;"	v
+foodlock	irtegov/Practice/philosophers/din_phil_ori.c	/^pthread_mutex_t foodlock;$/;"	v
+foodlock	irtegov/Practice/philosophers/din_phil_transaction.c	/^pthread_mutex_t foodlock;$/;"	v
+forks	irtegov/Practice/philosophers/din_phil_ordered.c	/^pthread_mutex_t forks[PHILO];$/;"	v
+forks	irtegov/Practice/philosophers/din_phil_ori.c	/^pthread_mutex_t forks[PHILO];$/;"	v
+forks	irtegov/Practice/philosophers/din_phil_transaction.c	/^pthread_mutex_t forks[PHILO];$/;"	v
+form_select_masks	irtegov/Practice/network_apps/forwarder.c	/^void form_select_masks(fd_set *readfs, fd_set *writefs, int listenfd) {$/;"	f
+forwarding_socket	irtegov/Practice/network_apps/forwarder.c	/^    int client_socket, forwarding_socket;$/;"	m	struct:connection_descriptor	file:
+full	irtegov/Practice/network_apps/httpclients/body_pthread.c	/^int empty=1, full=0, eof=0;$/;"	v
+generate_get_command	irtegov/Practice/network_apps/httpclients/httpclient_main.c	/^char *generate_get_command(const char * url, char *buf, size_t size) {$/;"	f
+get_block	love/p157.c	/^int get_block(int fd, int logical_block)$/;"	f
+get_fork	irtegov/Practice/philosophers/din_phil_ordered.c	/^get_fork (int phil,$/;"	f
+get_fork	irtegov/Practice/philosophers/din_phil_ori.c	/^get_fork (int phil,$/;"	f
+get_forks	irtegov/Practice/philosophers/din_phil_transaction.c	/^get_forks (int phil,$/;"	f
+get_inode	love/p155.c	/^int get_inode(int fd)$/;"	f
+get_nr_blocks	love/p157.c	/^int get_nr_blocks(int fd)$/;"	f
+getting_forks_cond	irtegov/Practice/philosophers/din_phil_transaction.c	/^pthread_cond_t getting_forks_cond;$/;"	v
+getting_forks_mx	irtegov/Practice/philosophers/din_phil_transaction.c	/^pthread_mutex_t getting_forks_mx;$/;"	v
+global_mutex	irtegov/Practice/ordered_list/global_mutex.c	/^pthread_mutex_t global_mutex;$/;"	v
+global_mutex	irtegov/Practice/ordered_list/global_rwlock.c	/^pthread_rwlock_t global_mutex;$/;"	v
+handlesigint	irtegov/Practice/PI_interruptible/pi_parallel_mutex.c	/^void handlesigint(int sig) {$/;"	f
+handlesigint2	irtegov/Practice/PI_interruptible/pi_parallel_barrier.c	/^void handlesigint2(int sig) {$/;"	f
+handlesigint2	irtegov/Practice/PI_interruptible/pi_parallel_mutex.c	/^void handlesigint2(int sig) {$/;"	f
+head	irtegov/Practice/msgqueue/msgqueue_cond.h	/^  struct queue_record *head, *tail;$/;"	m	struct:myqueue	typeref:struct:myqueue::queue_record
+head	irtegov/Practice/msgqueue/msgqueue_sem.h	/^  struct queue_record *head, *tail;$/;"	m	struct:myqueue	typeref:struct:myqueue::queue_record
+head	irtegov/Practice/network_apps/forwarder.c	/^struct connection_descriptor *head, *tail;$/;"	v	typeref:struct:connection_descriptor
+head	irtegov/Practice/ordered_list/local_mutex.c	/^} head;$/;"	v	typeref:struct:node_t
+head_list_elem	irtegov/Practice/ordered_list/global_mutex.c	/^typedef struct head_list_elem{$/;"	s	file:
+head_list_elem	irtegov/Practice/ordered_list/global_mutex.c	/^}head_list_elem;$/;"	t	typeref:struct:head_list_elem	file:
+head_list_elem	irtegov/Practice/ordered_list/global_rwlock.c	/^typedef struct head_list_elem{$/;"	s	file:
+head_list_elem	irtegov/Practice/ordered_list/global_rwlock.c	/^}head_list_elem;$/;"	t	typeref:struct:head_list_elem	file:
+headsem	irtegov/Practice/msgqueue/msgqueue_sem.h	/^  sem_t headsem, tailsem, queuesem;$/;"	m	struct:myqueue
+highmark	irtegov/Practice/network_apps/httpclients/body_pthread.c	/^int lowmark=0, highmark=0;$/;"	v
+is_on_physical_device	love/p243.c	/^int is_on_physical_device(int fd)$/;"	f
+length	irtegov/Practice/ordered_list/local_mutex.c	/^  int length;$/;"	m	struct:node_t	file:
+lines	irtegov/Practice/network_apps/httpclients/body_pthread.c	/^int lines=0;$/;"	v
+list_add	irtegov/Practice/ordered_list/local_rwlock.c	/^list_t* list_add(list_t* list, char* str) {$/;"	f
+list_create	irtegov/Practice/ordered_list/local_rwlock.c	/^list_t* list_create(void) {$/;"	f
+list_elem	irtegov/Practice/ordered_list/global_mutex.c	/^typedef struct list_elem{$/;"	s	file:
+list_elem	irtegov/Practice/ordered_list/global_mutex.c	/^}list_elem;$/;"	t	typeref:struct:list_elem	file:
+list_elem	irtegov/Practice/ordered_list/global_rwlock.c	/^typedef struct list_elem{$/;"	s	file:
+list_elem	irtegov/Practice/ordered_list/global_rwlock.c	/^}list_elem;$/;"	t	typeref:struct:list_elem	file:
+list_print	irtegov/Practice/ordered_list/local_rwlock.c	/^void list_print(list_t* list) {$/;"	f
+list_release	irtegov/Practice/ordered_list/local_rwlock.c	/^void list_release(list_t* list) {$/;"	f
+list_sort	irtegov/Practice/ordered_list/local_rwlock.c	/^void* list_sort(void* p) {$/;"	f
+list_t	irtegov/Practice/ordered_list/local_rwlock.c	/^} list_t;$/;"	t	typeref:struct:tag_list_t	file:
+longlong	irtegov/Practice/PI/pi_parallel.c	/^		long long longlong;$/;"	m	union:mynum	file:
+longlong	irtegov/Practice/PI_interruptible/pi_parallel_barrier.c	/^    long long longlong;$/;"	m	union:mynum	file:
+longlong	irtegov/Practice/PI_interruptible/pi_parallel_mutex.c	/^    long long longlong;$/;"	m	union:mynum	file:
+lowmark	irtegov/Practice/network_apps/httpclients/body_pthread.c	/^int lowmark=0, highmark=0;$/;"	v
+m	irtegov/Practice/producer_consumer_print/p_c_funny.c	/^pthread_mutex_t m[3];$/;"	v
+m1	irtegov/Practice/producer_consumer_print/p_c_condvar.c	/^pthread_mutex_t m1=PTHREAD_MUTEX_INITIALIZER;$/;"	v
+main	SRT/LR2.c	/^int main(void)$/;"	f
+main	SRT/LR3.c	/^int main(void)$/;"	f
+main	SRT/LR4.c	/^int main(void)$/;"	f
+main	SRT/sample.c	/^int main(int argc, char *argv[]) {$/;"	f
+main	SRT/sample.s	/^main:$/;"	l
+main	irtegov/Practice/PI/pi_parallel.c	/^main(int argc, char** argv) {$/;"	f
+main	irtegov/Practice/PI/pi_serial.c	/^main(int argc, char** argv) {$/;"	f
+main	irtegov/Practice/PI_interruptible/pi_parallel_barrier.c	/^main(int argc, char** argv) {$/;"	f
+main	irtegov/Practice/PI_interruptible/pi_parallel_mutex.c	/^main(int argc, char** argv) {$/;"	f
+main	irtegov/Practice/PI_interruptible/pi_serial.c	/^main(int argc, char** argv) {$/;"	f
+main	irtegov/Practice/msgqueue/test.c	/^int main(int argc, char **argv) {$/;"	f
+main	irtegov/Practice/network_apps/forwarder.c	/^main(int argc, char** argv) {$/;"	f
+main	irtegov/Practice/network_apps/httpclients/httpclient_main.c	/^main(int argc, char** argv) {$/;"	f
+main	irtegov/Practice/ordered_list/global_mutex.c	/^int main(int argc, char* argv[]){$/;"	f
+main	irtegov/Practice/ordered_list/global_rwlock.c	/^int main(int argc, char* argv[]){$/;"	f
+main	irtegov/Practice/ordered_list/local_mutex.c	/^int main() {$/;"	f
+main	irtegov/Practice/ordered_list/local_rwlock.c	/^int main(void) {$/;"	f
+main	irtegov/Practice/philosophers/din_phil_ordered.c	/^main (int argn,$/;"	f
+main	irtegov/Practice/philosophers/din_phil_ori.c	/^main (int argn,$/;"	f
+main	irtegov/Practice/philosophers/din_phil_transaction.c	/^main (int argn,$/;"	f
+main	irtegov/Practice/producer_consumer_print/p_c_condvar.c	/^int main ( int argc, char* argv ){$/;"	f
+main	irtegov/Practice/producer_consumer_print/p_c_funny.c	/^int main ( int argc, char* argv ){$/;"	f
+main	irtegov/Practice/producer_consumer_print/p_c_sem.c	/^int main ( int argc, char* argv ){$/;"	f
+main	irtegov/Practice/pthread_cancel.c	/^int main(int argc, char *argv[]) {$/;"	f
+main	irtegov/Practice/pthread_cancel/pthread_cancel.c	/^int main(int argc, char *argv[]) {$/;"	f
+main	irtegov/Practice/pthread_cancel_handler/pthread_cancel_handler.c	/^int main(int argc, char *argv[]) {$/;"	f
+main	irtegov/Practice/pthread_cp-R/pthread_cp_r.c	/^int main(int argc, char **argv) {$/;"	f
+main	irtegov/Practice/pthread_cp-R_correct/pthread_cp_r.c	/^int main(int argc, char **argv) {$/;"	f
+main	irtegov/Practice/pthread_create/pthread_create.c	/^int main(int argc, char *argv[]) {$/;"	f
+main	irtegov/Practice/pthread_create_join/pthread_create_join.c	/^int main(int argc, char *argv[]) {$/;"	f
+main	irtegov/Practice/pthread_create_param/pthread_create_param.c	/^int main(int argc, char *argv[]) {$/;"	f
+main	irtegov/Practice/semaphore_production/production_line.c	/^int main(){$/;"	f
+main	irtegov/Practice/semtest-1.c	/^int main() {$/;"	f
+main	irtegov/Practice/semtest.c	/^int main() {$/;"	f
+main	irtegov/Practice/sockaio-sig.c	/^int main() {$/;"	f
+main	irtegov/Practice/sockaio.c	/^int main() {$/;"	f
+main	irtegov/Practice/test_defines.c	/^int main() {$/;"	f
+main	irtegov/Practice/tests/test_destructor.cpp	/^int main() {$/;"	f
+main	irtegov/Practice/tests/test_destructor_exit.cpp	/^int main() {$/;"	f
+main	irtegov/Practice/tests/test_detach_state.c	/^int main() {$/;"	f
+main	irtegov/Practice/tests/test_exit.cpp	/^int main() {$/;"	f
+main	irtegov/Practice/unlinksem.c	/^int main(int argc, char ** argv) {$/;"	f
+main	irtegov/ex.c	/^int main(void)$/;"	f
+main	irtegov/p3-1.c	/^int main(int argc, char* argv[])$/;"	f
+main	irtegov/p3-2.cpp	/^int main(void)$/;"	f
+main	irtegov/p3-3.c	/^int main(void)$/;"	f
+main	irtegov/pchecker.c	/^int main() { $/;"	f
+main	irtegov/pchecker2.c	/^void main(void)$/;"	f
+main	love/p101.c	/^int main(void)$/;"	f
+main	love/p116.c	/^int main()$/;"	f
+main	love/p117.c	/^int main(void)$/;"	f
+main	love/p118.c	/^void main(void)$/;"	f
+main	love/p130.c	/^int main(int argc, char* argv[])$/;"	f
+main	love/p155.c	/^int main(int argc, char* argv[])$/;"	f
+main	love/p157.c	/^int main(int argc, char* argv[])$/;"	f
+main	love/p162.c	/^void main()$/;"	f
+main	love/p163.c	/^void main()$/;"	f
+main	love/p167.c	/^void main()$/;"	f
+main	love/p176.c	/^int main(void)$/;"	f
+main	love/p210.c	/^void main(void)$/;"	f
+main	love/p210.s	/^main:$/;"	l
+main	love/p215.c	/^void main(void)$/;"	f
+main	love/p228.c	/^void main(void)$/;"	f
+main	love/p237.c	/^void main(void)$/;"	f
+main	love/p243.c	/^int main(int argc, char* argv[])$/;"	f
+main	love/p282.c	/^int main(int argc, char* argv[])$/;"	f
+main	love/p304.c	/^void main(void)$/;"	f
+main	love/p314.c	/^void main(void)$/;"	f
+main	love/p343.c	/^int main(void)$/;"	f
+main	love/p344.c	/^int main(void)$/;"	f
+maxiter_mutex	irtegov/Practice/PI_interruptible/pi_parallel_barrier.c	/^pthread_mutex_t maxiter_mutex=PTHREAD_MUTEX_INITIALIZER;$/;"	v
+maxiter_mutex	irtegov/Practice/PI_interruptible/pi_parallel_mutex.c	/^pthread_mutex_t maxiter_mutex=PTHREAD_MUTEX_INITIALIZER;$/;"	v
+maxiterations	irtegov/Practice/PI_interruptible/pi_parallel_barrier.c	/^long long maxiterations=0;$/;"	v
+maxiterations	irtegov/Practice/PI_interruptible/pi_parallel_mutex.c	/^long long maxiterations=0;$/;"	v
+maxlines	irtegov/Practice/network_apps/httpclients/body_pthread.c	/^int maxlines=25;$/;"	v
+mut	irtegov/Practice/ordered_list/local_mutex.c	/^  pthread_mutex_t mut;$/;"	m	struct:node_t	file:
+my_perror	irtegov/Practice/pthread_create_param/pthread_create_param.c	/^void my_perror(int code, int argc, char **argv) {$/;"	f
+my_system	love/p184.c	/^int my_system(const char* command)$/;"	f
+mymsgdestroy	irtegov/Practice/msgqueue/msgqueue_cond.c	/^void mymsgdestroy(queue *q) {$/;"	f
+mymsgdestroy	irtegov/Practice/msgqueue/msgqueue_sem.c	/^void mymsgdestroy(queue *q) {$/;"	f
+mymsgdrop	irtegov/Practice/msgqueue/msgqueue_cond.c	/^void mymsgdrop(queue *q) {$/;"	f
+mymsgdrop	irtegov/Practice/msgqueue/msgqueue_sem.c	/^void mymsgdrop(queue *q) {$/;"	f
+mymsgget	irtegov/Practice/msgqueue/msgqueue_cond.c	/^int mymsgget(queue *q, char *buf, size_t bufsize) {$/;"	f
+mymsgget	irtegov/Practice/msgqueue/msgqueue_sem.c	/^int mymsgget(queue *q, char *buf, size_t bufsize) {$/;"	f
+mymsginit	irtegov/Practice/msgqueue/msgqueue_cond.c	/^void mymsginit(queue *q) {$/;"	f
+mymsginit	irtegov/Practice/msgqueue/msgqueue_sem.c	/^void mymsginit(queue *q) {$/;"	f
+mymsgput	irtegov/Practice/msgqueue/msgqueue_cond.c	/^int mymsgput(queue *q, char * msg) {$/;"	f
+mymsgput	irtegov/Practice/msgqueue/msgqueue_sem.c	/^int mymsgput(queue *q, char * msg) {$/;"	f
+mynum	irtegov/Practice/PI/pi_parallel.c	/^union mynum {$/;"	u	file:
+mynum	irtegov/Practice/PI_interruptible/pi_parallel_barrier.c	/^union mynum {$/;"	u	file:
+mynum	irtegov/Practice/PI_interruptible/pi_parallel_mutex.c	/^union mynum {$/;"	u	file:
+myqueue	irtegov/Practice/msgqueue/msgqueue_cond.h	/^typedef struct myqueue {$/;"	s
+myqueue	irtegov/Practice/msgqueue/msgqueue_sem.h	/^typedef struct myqueue {$/;"	s
+naive_writev	love/p118.c	/^ssize_t naive_writev(int fd, const struct iovec* iov, int count)$/;"	f
+next	irtegov/Practice/msgqueue/msgqueue_cond.h	/^  struct queue_record * next, *prev;$/;"	m	struct:queue_record	typeref:struct:queue_record::queue_record
+next	irtegov/Practice/msgqueue/msgqueue_sem.h	/^  struct queue_record * next, *prev;$/;"	m	struct:queue_record	typeref:struct:queue_record::queue_record
+next	irtegov/Practice/network_apps/forwarder.c	/^    struct connection_descriptor *prev, *next;$/;"	m	struct:connection_descriptor	typeref:struct:connection_descriptor::	file:
+next	irtegov/Practice/ordered_list/global_mutex.c	/^  struct list_elem* next;$/;"	m	struct:list_elem	typeref:struct:list_elem::list_elem	file:
+next	irtegov/Practice/ordered_list/global_rwlock.c	/^  struct list_elem* next;$/;"	m	struct:list_elem	typeref:struct:list_elem::list_elem	file:
+next	irtegov/Practice/ordered_list/local_mutex.c	/^  struct node_t *next;$/;"	m	struct:node_t	typeref:struct:node_t::node_t	file:
+next	irtegov/Practice/ordered_list/local_rwlock.c	/^  struct tag_list_t* next;$/;"	m	struct:tag_list_t	typeref:struct:tag_list_t::tag_list_t	file:
+nfds	irtegov/Practice/network_apps/forwarder.c	/^int nfds=0;$/;"	v
+node_t	irtegov/Practice/ordered_list/local_mutex.c	/^struct node_t {$/;"	s	file:
+nthreads	irtegov/Practice/PI/pi_parallel.c	/^int nthreads;$/;"	v
+nthreads	irtegov/Practice/PI_interruptible/pi_parallel_barrier.c	/^int nthreads;$/;"	v
+nthreads	irtegov/Practice/PI_interruptible/pi_parallel_mutex.c	/^int nthreads;$/;"	v
+num_steps	irtegov/Practice/PI/pi_parallel.c	21;"	d	file:
+num_steps	irtegov/Practice/PI/pi_serial.c	17;"	d	file:
+num_steps	irtegov/Practice/PI_interruptible/pi_serial.c	17;"	d	file:
+num_steps_per_check	irtegov/Practice/PI_interruptible/pi_parallel_barrier.c	22;"	d	file:
+num_steps_per_check	irtegov/Practice/PI_interruptible/pi_parallel_mutex.c	22;"	d	file:
+open_socket	irtegov/Practice/network_apps/httpclients/httpclient_main.c	/^int open_socket(char * hostname, int port) {$/;"	f
+open_with_wait	irtegov/pchecker2.c	/^int open_with_wait(const char *pathname, int flags, mode_t mode) { $/;"	f
+parse_url	irtegov/Practice/network_apps/httpclients/httpclient_main.c	/^int parse_url(char  * url, char  **protocol, char  **user,$/;"	f
+philosopher	irtegov/Practice/philosophers/din_phil_ordered.c	/^philosopher (void *num)$/;"	f
+philosopher	irtegov/Practice/philosophers/din_phil_ori.c	/^philosopher (void *num)$/;"	f
+philosopher	irtegov/Practice/philosophers/din_phil_transaction.c	/^philosopher (void *num)$/;"	f
+phils	irtegov/Practice/philosophers/din_phil_ordered.c	/^pthread_t phils[PHILO];$/;"	v
+phils	irtegov/Practice/philosophers/din_phil_ori.c	/^pthread_t phils[PHILO];$/;"	v
+phils	irtegov/Practice/philosophers/din_phil_transaction.c	/^pthread_t phils[PHILO];$/;"	v
+pleasequit	irtegov/Practice/PI_interruptible/pi_parallel_barrier.c	/^int pleasequit=0;$/;"	v
+pleasequit	irtegov/Practice/PI_interruptible/pi_parallel_mutex.c	/^int pleasequit=0;$/;"	v
+pleasequit	irtegov/Practice/msgqueue/test.c	/^int pleasequit=0;$/;"	v
+prev	irtegov/Practice/msgqueue/msgqueue_cond.h	/^  struct queue_record * next, *prev;$/;"	m	struct:queue_record	typeref:struct:queue_record::
+prev	irtegov/Practice/msgqueue/msgqueue_sem.h	/^  struct queue_record * next, *prev;$/;"	m	struct:queue_record	typeref:struct:queue_record::
+prev	irtegov/Practice/network_apps/forwarder.c	/^    struct connection_descriptor *prev, *next;$/;"	m	struct:connection_descriptor	typeref:struct:connection_descriptor::connection_descriptor	file:
+prev	irtegov/Practice/ordered_list/local_rwlock.c	/^  struct tag_list_t* prev;$/;"	m	struct:tag_list_t	typeref:struct:tag_list_t::tag_list_t	file:
+print_blocks	love/p157.c	/^void print_blocks(int fd)$/;"	f
+print_message	irtegov/Practice/producer_consumer_print/p_c_condvar.c	/^void* print_message ( void* str ){$/;"	f
+print_message	irtegov/Practice/producer_consumer_print/p_c_funny.c	/^void* print_message ( void* str ){$/;"	f
+print_message	irtegov/Practice/producer_consumer_print/p_c_sem.c	/^void* print_message ( void* str ){$/;"	f
+printed	irtegov/Practice/producer_consumer_print/p_c_funny.c	/^int printed=0;  \/* flag for idle loop *\/$/;"	v
+producer	irtegov/Practice/msgqueue/test.c	/^void *producer(void *pq) {$/;"	f
+queue	irtegov/Practice/msgqueue/msgqueue_cond.h	/^} queue;$/;"	t	typeref:struct:myqueue
+queue	irtegov/Practice/msgqueue/msgqueue_sem.h	/^} queue;$/;"	t	typeref:struct:myqueue
+queue_record	irtegov/Practice/msgqueue/msgqueue_cond.h	/^struct queue_record {$/;"	s
+queue_record	irtegov/Practice/msgqueue/msgqueue_sem.h	/^struct queue_record {$/;"	s
+queuecond	irtegov/Practice/msgqueue/msgqueue_cond.h	/^  pthread_cond_t queuecond;$/;"	m	struct:myqueue
+queuemx	irtegov/Practice/msgqueue/msgqueue_cond.h	/^  pthread_mutex_t queuemx;$/;"	m	struct:myqueue
+queuesem	irtegov/Practice/msgqueue/msgqueue_sem.h	/^  sem_t headsem, tailsem, queuesem;$/;"	m	struct:myqueue
+readFromFile	SRT/sample.c	/^void readFromFile() {$/;"	f
+readFromFile	SRT/sample.s	/^readFromFile:$/;"	l
+reader_thread	irtegov/Practice/network_apps/httpclients/body_pthread.c	/^static void *reader_thread(void *q) {$/;"	f	file:
+req	irtegov/Practice/sockaio-sig.c	/^const char req[]="GET \/ HTTP\/1.0\\r\\n\\r\\n";$/;"	v
+req	irtegov/Practice/sockaio.c	/^const char req[]="GET \/ HTTP\/1.0\\r\\n\\r\\n";$/;"	v
+rwlock	irtegov/Practice/ordered_list/local_rwlock.c	/^  pthread_rwlock_t rwlock;$/;"	m	struct:tag_list_t	file:
+s	irtegov/Practice/network_apps/httpclients/body_pthread.c	/^int s;$/;"	v
+s1	irtegov/Practice/producer_consumer_print/p_c_sem.c	/^sem_t s1;$/;"	v
+s2	irtegov/Practice/producer_consumer_print/p_c_sem.c	/^sem_t s2;$/;"	v
+semA	irtegov/Practice/semaphore_production/production_line.c	/^sem_t semA, semB, semC, semAB;$/;"	v
+semAB	irtegov/Practice/semaphore_production/production_line.c	/^sem_t semA, semB, semC, semAB;$/;"	v
+semB	irtegov/Practice/semaphore_production/production_line.c	/^sem_t semA, semB, semC, semAB;$/;"	v
+semC	irtegov/Practice/semaphore_production/production_line.c	/^sem_t semA, semB, semC, semAB;$/;"	v
+semname	irtegov/Practice/semtest-1.c	/^const char * semname="\/printa", * semname2="\/printb";$/;"	v
+semname	irtegov/Practice/semtest.c	/^const char * semname="\/printa", * semname2="\/printb";$/;"	v
+semname2	irtegov/Practice/semtest-1.c	/^const char * semname="\/printa", * semname2="\/printb";$/;"	v
+semname2	irtegov/Practice/semtest.c	/^const char * semname="\/printa", * semname2="\/printb";$/;"	v
+sighandler	irtegov/Practice/semtest-1.c	/^void sighandler(int sig) {$/;"	f
+sighandler	irtegov/Practice/semtest.c	/^void sighandler(int sig) {$/;"	f
+sigint_handler	love/p343.c	/^static void sigint_handler(int signo)$/;"	f	file:
+siginthandler	irtegov/Practice/msgqueue/test.c	/^void siginthandler(int sig) {$/;"	f
+sigiohandler	irtegov/Practice/sockaio-sig.c	/^void sigiohandler(int signo, siginfo_t *info, void *context) {$/;"	f
+signal_handler	love/p344.c	/^static void signal_handler(int signo)$/;"	f	file:
+size	irtegov/Practice/ordered_list/global_mutex.c	/^  int size;$/;"	m	struct:head_list_elem	file:
+size	irtegov/Practice/ordered_list/global_rwlock.c	/^  int size;$/;"	m	struct:head_list_elem	file:
+sleep_seconds	irtegov/Practice/philosophers/din_phil_ordered.c	/^int sleep_seconds = 0;$/;"	v
+sleep_seconds	irtegov/Practice/philosophers/din_phil_ori.c	/^int sleep_seconds = 0;$/;"	v
+sleep_seconds	irtegov/Practice/philosophers/din_phil_transaction.c	/^int sleep_seconds = 0;$/;"	v
+sort_loop	irtegov/Practice/ordered_list/local_mutex.c	/^void* sort_loop(void* param) {$/;"	f
+srcdir	irtegov/Practice/pthread_cp-R/pthread_cp_r.c	/^char *srcdir, *dstdir; \/* source and destination dirs *\/$/;"	v
+srcdir	irtegov/Practice/pthread_cp-R_correct/pthread_cp_r.c	/^char *srcdir, *dstdir; \/* source and destination dirs *\/$/;"	v
+swap	irtegov/Practice/ordered_list/global_mutex.c	/^void swap ( list_elem* a, list_elem* b){$/;"	f
+swap	irtegov/Practice/ordered_list/global_rwlock.c	/^void swap ( list_elem* a, list_elem* b){$/;"	f
+swap_data	irtegov/Practice/ordered_list/local_rwlock.c	/^void swap_data(list_t* iteri, list_t* iterj) {$/;"	f
+tag_list_t	irtegov/Practice/ordered_list/local_rwlock.c	/^typedef struct tag_list_t {$/;"	s	file:
+tail	irtegov/Practice/msgqueue/msgqueue_cond.h	/^  struct queue_record *head, *tail;$/;"	m	struct:myqueue	typeref:struct:myqueue::
+tail	irtegov/Practice/msgqueue/msgqueue_sem.h	/^  struct queue_record *head, *tail;$/;"	m	struct:myqueue	typeref:struct:myqueue::
+tail	irtegov/Practice/network_apps/forwarder.c	/^struct connection_descriptor *head, *tail;$/;"	v	typeref:struct:
+tailsem	irtegov/Practice/msgqueue/msgqueue_sem.h	/^  sem_t headsem, tailsem, queuesem;$/;"	m	struct:myqueue
+test_and_process_masks	irtegov/Practice/network_apps/forwarder.c	/^void test_and_process_masks(fd_set *readfs, fd_set *writefs) {$/;"	f
+thread_body	irtegov/Practice/pthread_cancel.c	/^void * thread_body(void * param) {$/;"	f
+thread_body	irtegov/Practice/pthread_cancel/pthread_cancel.c	/^void * thread_body(void * param) {$/;"	f
+thread_body	irtegov/Practice/pthread_cancel_handler/pthread_cancel_handler.c	/^void * thread_body(void * param) {$/;"	f
+thread_body	irtegov/Practice/pthread_create/pthread_create.c	/^void * thread_body(void * param) {$/;"	f
+thread_body	irtegov/Practice/pthread_create_join/pthread_create_join.c	/^void * thread_body(void * param) {$/;"	f
+thread_body	irtegov/Practice/pthread_create_param/pthread_create_param.c	/^void * thread_body(void * param) {$/;"	f
+thread_body	irtegov/Practice/tests/test_detach_state.c	/^void * thread_body(void *unused) {$/;"	f
+thread_body	irtegov/p3-1.c	/^void* thread_body(void* param)$/;"	f
+thread_body	irtegov/p3-3.c	/^void* thread_body(void* unused)$/;"	f
+toexit	irtegov/Practice/sockaio-sig.c	/^sigjmp_buf toexit;$/;"	v
+usage_format	irtegov/Practice/network_apps/forwarder.c	/^char * usage_format="Usage: %s listen_port remote_host remote_port\\n";$/;"	v
+value	irtegov/Practice/tests/test_destructor.cpp	/^	int value;$/;"	m	class:TestClass	file:
+value	irtegov/Practice/tests/test_destructor_exit.cpp	/^	int value;$/;"	m	class:TestClass	file:
+value	irtegov/Practice/tests/test_exit.cpp	/^	int value;$/;"	m	class:TestClass	file:
+value	irtegov/p3-2.cpp	/^	int value;$/;"	m	class:TestClass	file:
+writeToFile	SRT/sample.c	/^int writeToFile() {$/;"	f
+writeToFile	SRT/sample.s	/^writeToFile:$/;"	l
+writer_thread	irtegov/Practice/network_apps/httpclients/body_pthread.c	/^static void *writer_thread(void *q) {$/;"	f	file:
+~TestClass	irtegov/Practice/tests/test_destructor.cpp	/^	~TestClass() {$/;"	f	class:TestClass
+~TestClass	irtegov/Practice/tests/test_destructor_exit.cpp	/^	~TestClass() {$/;"	f	class:TestClass
+~TestClass	irtegov/Practice/tests/test_exit.cpp	/^	~TestClass() {$/;"	f	class:TestClass
+~TestClass	irtegov/p3-2.cpp	/^	~TestClass()$/;"	f	class:TestClass
