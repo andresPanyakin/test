@@ -1,4 +1,6 @@
 *.o
+*.un~
+*.~
 cscope_base/
 ctags_base/
 
